@@ -1,6 +1,4 @@
-/*
-CHOSES A FAIRE QUAND UN CLIENT VALIDE LA MISE EN PROD D'UN SITE 
- */
+# CHOSES A FAIRE QUAND UN CLIENT VALIDE LA MISE EN PROD D'UN SITE
 
 - Décocher dans Wordpress "Demander aux moteurs de recherche de ne pas indexer ce site"
 - Changer tout les mails test ou @webcreatid.com par celui du client
