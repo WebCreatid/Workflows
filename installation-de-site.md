@@ -5,7 +5,7 @@
 - Desactiver CloudFlare (nuage gris sur les records A et www)
 - Installer WordPress via Shakmem (celui du serveur en question)
 - Cocher dans Wordpress "Demander aux moteurs de recherche de ne pas indexer ce site"
-- Mettre a jour si besoin WordPress les plugins
+- Mettre a jour si besoin WordPress et les plugins
 - Desactiver "WP-Rocket"
 - Desactiver "Postman SMTP"
 - Desactiver et Desinstaller tout les plugins non necessaire au projet
