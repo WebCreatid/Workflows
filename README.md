@@ -1,5 +1,5 @@
-# mise-en-production
-Liste de choses à faire avant de passer un site en production  
+# Worklows
+Liste de choses à effectuer sur les sites de nos clients selon l'étape du projet.
   
 Par [WebCreatid] (http://webcreatid.com)  
 [![WebCreatid logo](http://webcreatid.com/wp-content/uploads/2016/03/logo-big.png "WebCreatid - Web Development & Solutions")](http://webcreatid.com)
