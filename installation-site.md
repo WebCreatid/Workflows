@@ -1,0 +1,27 @@
+# CHOSES A FAIRE QUAND ON INSTALLE UN SITE (WordPress)
+
+- Récupérer l'adresse IP du serveur sur lequel on compte installer le site
+- Configurer le domaine du client sur CloudFlare
+- Desactiver CloudFlare (nuage gris sur les records A et www)
+- Installer WordPress via Shakmem (celui du serveur en question)
+- Cocher dans Wordpress "Demander aux moteurs de recherche de ne pas indexer ce site"
+- Mettre a jour si besoin WordPress les plugins
+- Desactiver "WP-Rocket"
+- Desactiver "Postman SMTP"
+- Desactiver et Desinstaller tout les plugins non necessaire au projet
+- Installer le theme du projet
+- Mettre a jour le theme si besoin
+- Creer un child theme avec le nom du projet
+- Activer le child theme en tant que theme 
+- Supprimer tout les autres themes sauf le child theme et son parent
+- Registrer le theme si besoin
+- Installer tout les plugins necessaire au bon fonctionnement du theme
+- Si une installe plante faire un Chown et un Chmod sur le dossier racine du site et recommencer l'installe
+- Régler le "Fuseau horaire", "Format de date", "Format d’heure", "La semaine débute le" et "Langue du site"
+- Mettre a jour les traductions si besoin
+- Verifier que les permaliens sont "Nom de l’article"
+- Décocher dans le profil de l'admin "Afficher la barre d’outils lorsque vous visitez le site"
+- Mettre le nom du site dans le profil de l'admin dans "Nom à afficher publiquement"
+- Registrer "Gravity Forms"
+- Mettre a jour "Gravity Forms" si besoin
+- Faire un Chown et un Chmod sur le dossier racine du site
