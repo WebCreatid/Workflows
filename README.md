@@ -1,4 +1,4 @@
-# Worklows
+# Workflows
 Liste de choses à effectuer sur les sites de nos clients selon l'étape du projet.
   
 Par [WebCreatid] (http://webcreatid.com)  
